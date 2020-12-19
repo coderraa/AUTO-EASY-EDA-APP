@@ -1,5 +1,5 @@
 # AUTO-EASY-EDA-APP
-@AUTHOR: RAHUL SINGH
+**@AUTHOR: RAHUL SINGH**
 
 Benefit of EDA is to refine your selection of feature variables that will be used later for machine learning. Once you gain deep familiarity with your data set, you may need to revisit the feature engineering step – you may find the features you selected do not serve their intended purpose. Moreover you may discover other features that add to the overall picture the data presents. Once you complete the EDA stage you should have a firm feature set with which to use for supervised and unsupervised statistical learning.
 
